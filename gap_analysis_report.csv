@@ -1,0 +1,19 @@
+requirement,description,similarity
+A.5.1.1 Policies for information security,"A set of policies for information security should be defined, approved by management, published and communicated to employees and relevant external parties.",0.027058252
+A.5.1.2 Review of the policies for information security,"The policies for information security should be reviewed at planned intervals or if significant changes occur to ensure their continuing suitability, adequacy and effectiveness.",0.024850967
+A.6.1.1 Information security roles and responsibilities,All information security responsibilities should be clearly defined.,0.023116563
+A.6.1.2 Segregation of duties,Conflicting duties and areas of responsibility should be segregated to reduce opportunities for unauthorized or unintentional modification or misuse of the organization’s assets.,0
+A.6.1.3 Contact with authorities,Appropriate contacts with relevant authorities should be maintained.,0.00232812
+A.6.1.4 Contact with special interest groups,Appropriate contacts with special interest groups or other specialist security forums and professional associations should be maintained.,0.006117443
+A.6.1.5 Information security in project management,"Information security should be addressed in project management, regardless of the type of the project.",0.107717857
+A.6.2.1 Mobile device policy,A policy and supporting security measures should be adopted to manage the risks introduced by using mobile devices.,0.134423353
+A.6.2.2 Teleworking,"A policy and supporting security measures should be implemented to protect information accessed, processed or stored at teleworking sites.",0
+A.7.1.1 Screening,"Background verification checks on all candidates for employment, contractors, and third-party users should be carried out in accordance with relevant laws, regulations, and ethics and should be proportional to the business requirements, the classification of the information to be accessed, and the perceived risks.",0
+A.7.1.2 Terms and conditions of employment,The contractual agreements with employees and contractors should state their and the organization’s responsibilities for information security.,0
+A.7.2.1 Management responsibilities,Management should require all employees and contractors to apply information security in accordance with the established policies and procedures of the organization.,0.106786397
+"A.7.2.2 Information security awareness, education, and training","All employees of the organization and, where relevant, contractors should receive appropriate awareness education and training and regular updates in organizational policies and procedures, as relevant for their job function.",0.022326537
+A.7.2.3 Disciplinary process,There should be a formal and communicated disciplinary process in place to take action against employees who have committed an information security breach.,0.025053047
+A.8.1.1 Inventory of assets,Assets associated with information and information processing facilities should be identified and an inventory of these assets should be drawn up and maintained.,0.093323768
+A.8.1.2 Ownership of assets,Assets maintained in the inventory should be owned.,0.045202233
+A.8.1.3 Acceptable use of assets,"Rules for the acceptable use of information and of assets associated with information and information processing facilities should be identified, documented, and implemented.",0.067214305
+A.8.1.4 Return of assets,"All employees and external party users should return all of the organizational assets in their possession upon termination of their employment, contract, or agreement.",0.039855396

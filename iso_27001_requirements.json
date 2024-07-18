@@ -1,0 +1,74 @@
+[
+    {
+        "requirement": "A.5.1.1 Policies for information security",
+        "description": "A set of policies for information security should be defined, approved by management, published and communicated to employees and relevant external parties."
+    },
+    {
+        "requirement": "A.5.1.2 Review of the policies for information security",
+        "description": "The policies for information security should be reviewed at planned intervals or if significant changes occur to ensure their continuing suitability, adequacy and effectiveness."
+    },
+    {
+        "requirement": "A.6.1.1 Information security roles and responsibilities",
+        "description": "All information security responsibilities should be clearly defined."
+    },
+    {
+        "requirement": "A.6.1.2 Segregation of duties",
+        "description": "Conflicting duties and areas of responsibility should be segregated to reduce opportunities for unauthorized or unintentional modification or misuse of the organization’s assets."
+    },
+    {
+        "requirement": "A.6.1.3 Contact with authorities",
+        "description": "Appropriate contacts with relevant authorities should be maintained."
+    },
+    {
+        "requirement": "A.6.1.4 Contact with special interest groups",
+        "description": "Appropriate contacts with special interest groups or other specialist security forums and professional associations should be maintained."
+    },
+    {
+        "requirement": "A.6.1.5 Information security in project management",
+        "description": "Information security should be addressed in project management, regardless of the type of the project."
+    },
+    {
+        "requirement": "A.6.2.1 Mobile device policy",
+        "description": "A policy and supporting security measures should be adopted to manage the risks introduced by using mobile devices."
+    },
+    {
+        "requirement": "A.6.2.2 Teleworking",
+        "description": "A policy and supporting security measures should be implemented to protect information accessed, processed or stored at teleworking sites."
+    },
+    {
+        "requirement": "A.7.1.1 Screening",
+        "description": "Background verification checks on all candidates for employment, contractors, and third-party users should be carried out in accordance with relevant laws, regulations, and ethics and should be proportional to the business requirements, the classification of the information to be accessed, and the perceived risks."
+    },
+    {
+        "requirement": "A.7.1.2 Terms and conditions of employment",
+        "description": "The contractual agreements with employees and contractors should state their and the organization’s responsibilities for information security."
+    },
+    {
+        "requirement": "A.7.2.1 Management responsibilities",
+        "description": "Management should require all employees and contractors to apply information security in accordance with the established policies and procedures of the organization."
+    },
+    {
+        "requirement": "A.7.2.2 Information security awareness, education, and training",
+        "description": "All employees of the organization and, where relevant, contractors should receive appropriate awareness education and training and regular updates in organizational policies and procedures, as relevant for their job function."
+    },
+    {
+        "requirement": "A.7.2.3 Disciplinary process",
+        "description": "There should be a formal and communicated disciplinary process in place to take action against employees who have committed an information security breach."
+    },
+    {
+        "requirement": "A.8.1.1 Inventory of assets",
+        "description": "Assets associated with information and information processing facilities should be identified and an inventory of these assets should be drawn up and maintained."
+    },
+    {
+        "requirement": "A.8.1.2 Ownership of assets",
+        "description": "Assets maintained in the inventory should be owned."
+    },
+    {
+        "requirement": "A.8.1.3 Acceptable use of assets",
+        "description": "Rules for the acceptable use of information and of assets associated with information and information processing facilities should be identified, documented, and implemented."
+    },
+    {
+        "requirement": "A.8.1.4 Return of assets",
+        "description": "All employees and external party users should return all of the organizational assets in their possession upon termination of their employment, contract, or agreement."
+    }
+]
