@@ -25,16 +25,18 @@ Clone the repository:
 
 git clone https://github.com/yourusername/gap-analysis-tool.git
 cd gap-analysis-tool
+
 Create a virtual environment:
 
 python -m venv venv
 source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
-Install the required packages:
 
-pip install -r requirements.txt
+Install the required packages as given under requirmeents section.
+
 Download the NLTK stopwords:
 
 python -c "import nltk; nltk.download('stopwords')"
+
 Download the SpaCy language model:
 
 python -m spacy download en_core_web_sm
