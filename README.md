@@ -13,11 +13,17 @@ Saves gap analysis results to a CSV file.
 
 ## Requirements
 Python 3.8 or higher
+
 Required Python libraries:
+
 spacy
+
 PyPDF2
+
 python-docx
+
 nltk
+
 scikit-learn
 
 ## Installation
@@ -31,7 +37,7 @@ Create a virtual environment:
 python -m venv venv
 source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
 
-Install the required packages as given under requirmeents section.
+Install the required packages as given under requirements section.
 
 Download the NLTK stopwords:
 
