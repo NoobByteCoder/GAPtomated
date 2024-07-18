@@ -50,7 +50,7 @@ Download the SpaCy language model:
 python -m spacy download en_core_web_sm
 
 ## Usage
-Place your policy documents (PDF or DOCX) in the policy_folder directory (default: /home/ram/Desktop/gap_analysis_automated).
+Place your policy documents (PDF or DOCX) in the policy_folder directory.
 
 Ensure you have the iso_27001_requirements.json file in the same directory as the script. This JSON file should contain the ISO 27001 requirements in the following format:
 
